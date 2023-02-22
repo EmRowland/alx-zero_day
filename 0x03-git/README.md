@@ -1,2 +1,8 @@
-# alx-zero_day
-I'm now a ALX Student, this is my first repository as a full-stack engineer
+## ALX-Africa SE student
+
+### My Readme file
+
+### Cynthia Ogbodo-Kenechukwu
+
+
+#### We Do Hard Things
